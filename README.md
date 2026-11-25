@@ -504,18 +504,17 @@ button:hover {
       <h2>💗</h2>
 
       <p>
-        I'm sorry making you overthink :<
+       I understand why nag overthink ikaw and I'm sorry for making you overthink :<
+      </p>
+
+      <p>
+        I promise to keep working to be better for you.
       </p>
 
       <p>
         Just like these flowers, I hope we can
         continue to grow together.
-      </p>
 
-      <p>
-        You deserve everything good in this world
-        and I wanna sgare it with you.
-        I promise to keep working to be better for you.
       </p>
 
       <h3>I love you so much. ♡</h3>
