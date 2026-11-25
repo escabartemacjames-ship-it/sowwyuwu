@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -330,9 +329,9 @@ button:hover {
   <!-- OPENING SCREEN -->
   <div id="start">
 
-    <h1>For my favorite girl 💗</h1>
+    <h1>For my nurse <3</h1>
 
-    <p>I know you love pink lilies...</p>
+    <p>I love u</p>
     <p>So I made these just for you.</p>
 
     <button onclick="openGift()">
